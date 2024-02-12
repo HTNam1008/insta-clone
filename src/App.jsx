@@ -9,6 +9,7 @@ function App() {
     <PageLayout>
       <Routes>
         <Route path="/" element={<HomePage />} />
+        
         <Route path="/auth" element={<AuthPage />} />
       </Routes>
     </PageLayout>

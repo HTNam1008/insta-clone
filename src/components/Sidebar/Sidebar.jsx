@@ -34,7 +34,7 @@ const Sidebar = () => {
     return (<Box
         height={"100vh"}
         borderRight={"1px solid"}
-        boderColor={"whiteAlpha.300"}
+        boderColor={"whiteAlpha.200"}
         py={8}
         position={"sticky"}
         top={0}
